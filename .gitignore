@@ -1,0 +1,8 @@
+dataset/
+processed/
+fhir_output/
+fhir_output.zip
+__pycache__/
+*.pyc
+.DS_Store
+.env
